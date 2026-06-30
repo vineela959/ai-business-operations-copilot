@@ -362,37 +362,37 @@ ACCESS_TOKEN_EXPIRE_MINUTES=60
 
 ## 🔐 Login
 
-> Add screenshot here
+![Login](assets/Screenshots/login.png)
 
 ---
 
 ## 📊 Business Dashboard
 
-> Add screenshot here
+![Dashboard](assets/Screenshots/dashboard.png)
 
 ---
 
 ## 🤖 AI Business Copilot
 
-> Add screenshot here
+![AI Chat](assets/Screenshots/chat.png)
 
 ---
 
 ## 📄 Knowledge Base
 
-> Add screenshot here
+![Knowledge Base](assets/Screenshots/knowledge-base.png)
 
 ---
 
 ## 🔍 RAG Document Question Answering
 
-> Add screenshot here
+![RAG Chat](assets/Screenshots/rag-chat.png)
 
 ---
 
 ## 📈 Business Analytics
 
-> Add screenshot here
+![Analytics](assets/Screenshots/analytics.png)
 
 ---
 
