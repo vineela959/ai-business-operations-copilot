@@ -38,6 +38,24 @@ This makes the application more than a chatbot — it behaves like an AI-powered
 
 ---
 
+---
+
+# 🌐 Live Demo
+
+## Frontend (Vercel)
+
+https://ai-business-operations-copilot-ktx8.vercel.app
+
+## Backend API (Render)
+
+https://ai-business-operations-copilot-api.onrender.com
+
+## API Documentation (Swagger)
+
+https://ai-business-operations-copilot-api.onrender.com/docs
+
+---
+
 ## 🧠 Core Idea
 
 Businesses often use separate tools for CRM, sales analytics, reporting, document search, and communication.
